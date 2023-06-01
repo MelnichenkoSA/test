@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testik2", "testik2\testik2.csproj", "{0724086D-72DE-47B0-88B3-B31475906D47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0724086D-72DE-47B0-88B3-B31475906D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0724086D-72DE-47B0-88B3-B31475906D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0724086D-72DE-47B0-88B3-B31475906D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0724086D-72DE-47B0-88B3-B31475906D47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5BF2CE0-16EB-4661-A937-9082ACDD34F1}
+	EndGlobalSection
+EndGlobal
